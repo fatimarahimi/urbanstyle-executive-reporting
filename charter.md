@@ -12,7 +12,7 @@
 - **File Sharing:** Google Drive (for assets/drafts) & GitHub (for code)
 - **GitHub Repository:(https://github.com/fatimarahimi/urbanstyle-executive-reporting)
 - **Supabase Project:** [Insert Supabase URL here]
-- **NotebookLM Shared Space:** [Insert NotebookLM Link here]
+- **NotebookLM Shared Space: https://notebook.google.com/notebook/549816ff-01a9-47f6-a837-862d47157426
 
 ## Agreements
 1. **How we help each other:** If someone gets stuck, they must first search on Google or ask an AI. If the issue is not resolved within 15 minutes, they share the error message and screenshot in Google Chat without credentials.
