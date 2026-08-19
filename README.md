@@ -4,11 +4,11 @@
 
 | Name | Role (Week 1) | OS (Win/Mac/Linux) |
 |---|---|---|
-| [Onur Mert Xozer] | [Team Charter Coordinator] | [Mac] |
-| [Andreas Hoy] | [NotebookLM Coordinator] | [Win] |
-| [Katrina Kirse] | [Supabase Coordinator] | [Win] |
-| [Katrin Väljataga] | [Portfolio Structure + Documentation] | [Win] |
-| [Fatima Rahimi] | [GitHub Repo Coordinator] | [Win] |
+| Onur Mert Xozer | Team Charter Coordinator | Mac |
+| Andreas Hoy | NotebookLM Coordinator | Win |
+| Katrina Kirse | Supabase Coordinator | Win |
+| Katrin Väljataga | Portfolio Structure + Documentation | Win |
+| Fatima Rahimi | GitHub Repo Coordinator | Win |
 
 ## Our goal
 
