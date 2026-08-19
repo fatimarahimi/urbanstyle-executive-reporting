@@ -8,7 +8,7 @@
 5. Katrin (OS: Windows) - Role Week 1: Member E - Portfolio Structure & Documentation
 
 ## Shared Tools
-- **Communication Channel:** Google Meet Chat
+- **Communication Channel: Google Chat
 - **File Sharing:** Google Drive (for assets/drafts) & GitHub (for code)
 - **GitHub Repository:(https://github.com/fatimarahimi/urbanstyle-executive-reporting)
 - **Supabase Project:** [Insert Supabase URL here]
