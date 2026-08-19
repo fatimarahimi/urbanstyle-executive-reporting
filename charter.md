@@ -10,7 +10,7 @@
 ## Shared Tools
 - **Communication Channel:** Google Meet Chat
 - **File Sharing:** Google Drive (for assets/drafts) & GitHub (for code)
-- **GitHub Repository:** [Insert Repo URL here]
+- **GitHub Repository:(https://github.com/fatimarahimi/urbanstyle-executive-reporting)
 - **Supabase Project:** [Insert Supabase URL here]
 - **NotebookLM Shared Space:** [Insert NotebookLM Link here]
 
