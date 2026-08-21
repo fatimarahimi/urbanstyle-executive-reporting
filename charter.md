@@ -9,9 +9,9 @@
 
 ## Shared Tools
 - **Communication Channel: Google Chat
-- **File Sharing:** Google Drive (for assets/drafts) & GitHub (for code)
-- **GitHub Repository:(https://github.com/fatimarahimi/urbanstyle-executive-reporting)
-- **Supabase Project:** [Insert Supabase URL here]
+- **File Sharing: Google Drive and GitHub
+- **GitHub Repository:https://github.com/fatimarahimi/urbanstyle-executive-reporting
+- **Supabase Project:https://kopndhwxxvtcflwllgba.supabase.co
 - **NotebookLM Shared Space: https://notebook.google.com/notebook/549816ff-01a9-47f6-a837-862d47157426
 
 ## Agreements
