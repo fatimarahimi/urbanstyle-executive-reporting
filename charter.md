@@ -5,7 +5,6 @@
 2. Katrina (OS: Windows) - Role Week 1: Member B - Supabase Coordinator
 3. Andreas (OS: Windows) - Role Week 1: Member C - NotebookLM Coordinator
 4. Onur Mert Sozer (OS: macOS) - Role Week 1: Member D - Team Charter Coordinator
-5. Katrin (OS: Windows) - Role Week 1: Member E - Portfolio Structure & Documentation
 
 ## Shared Tools
 - **Communication Channel: Google Chat
